@@ -28,12 +28,6 @@ It is a complete ReactJs project, here we have many functionalities. Overall it 
 
 
 
-
-## Demo
-
-Click here to check the live demo https://elu007.github.io/TextUtils/
-
-
 ## Tech Stack
 
 **Client:** React, JavaScript, BootStrap5
@@ -44,12 +38,3 @@ Click here to check the live demo https://elu007.github.io/TextUtils/
 
 Contributions are always welcome!
 
-If you want to contribute to this project with some additional and awesome features, raise an issue and create a pull request, and your pull request will accept after validation.
-
-
-## 🚀 About Me
-Click here to check out about me https://github.com/Elu007
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-elaf-ahmed-bb85b0210/)
